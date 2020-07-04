@@ -1,4 +1,13 @@
-# Caffe
+# 2020-1.VideoCaptioning
+2020-1. SEJONG.UNIV_창의학기제 : 저화질 영상에 대한 Video Captioning 네트워크 성능 향상 연구
+
+---
+
+# 해당 Caffe는 recurrent 라는 브런치. 최신화할 경우 /examples/S2VT 가 존재하지않음.
+
+---
+
+# Caffe - recurrent (github link)[https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt]
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
 It is developed by the Berkeley Vision and Learning Center ([BVLC](http://bvlc.eecs.berkeley.edu)) and community contributors.
