@@ -15,7 +15,7 @@
 # 연구의 과정
 
 - 1주차 : Video Captioning 논문 조사 및 CNN 학습 및 점수 비교
-    - [S2VT 논문 이해]()
+    - [S2VT 논문 이해](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/%5B-S2VT-%5D-Sequence-to-Sequence-Video-to-Text)
     - [COCO 평가 코드 임포트 및 고화질 Video Captioning 논문 평가점수 복원]()
 
 - 2주차 : 저화질 영상 생성 알고리즘 개발과 저화질 영상에 기존의 Video Captioning 네트워크 적용
