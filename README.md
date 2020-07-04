@@ -16,7 +16,7 @@
 
 - 1주차 : Video Captioning 논문 조사 및 CNN 학습 및 점수 비교
     - [S2VT 논문 이해]()
-    - [COCO 지표 결합 및 고화질 Video Captioning 논문 평가점수 복원_]()
+    - [COCO 평가 코드 임포트 및 고화질 Video Captioning 논문 평가점수 복원]()
 
 - 2주차 : 저화질 영상 생성 알고리즘 개발과 저화질 영상에 기존의 Video Captioning 네트워크 적용
 
@@ -48,8 +48,8 @@ The play-time of each video in the dataset is usually between 10 to 25 seconds m
   
 - Github  
     - [S2VT](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
-    - [CNN FEATURES]()
-
+    - [CNN FEATURES](https://github.com/hobincar/pytorch-video-feature-extractor)
+    - [COCO Captions](https://github.com/salaniz/pycocoevalcap)
 ---
 
 ## 이용 Caffe 버전 - recurrent ([Github link](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt) )
