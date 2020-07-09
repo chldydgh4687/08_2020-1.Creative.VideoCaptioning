@@ -33,6 +33,8 @@
 Microsoft Video Description (MSVD) dataset comprises of 1,970 YouTube clips with human annotated sentences written by AMT workers. The audio is muted all clips to avoid bias.
 The play-time of each video in the dataset is usually between 10 to 25 seconds mainly showing one activity. The orignal datasets description comprises multilingual description. This project'll use English description. and Almost all research groups have split this dataset into training, validation and testing partitions of 1200, 100 and 670 videos respectively. thus, I use splited dataset form( training, validation and testing partitions of 1200, 100 and 670 videos ).
 
+<p align="center"><img src="https://github.com/chldydgh4687/2020-1.VideoCaptioning/blob/master/pic/msvd_sample.PNG?raw=true" width="50%">
+
 ---
 
 # Reference
