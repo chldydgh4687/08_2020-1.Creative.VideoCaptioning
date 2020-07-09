@@ -50,7 +50,6 @@ The play-time of each video in the dataset is usually between 10 to 25 seconds m
     - [S2VT](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
     - [CNN FEATURES](https://github.com/hobincar/pytorch-video-feature-extractor)
     - [COCO Captions](https://github.com/salaniz/pycocoevalcap)
----
-
-## 이용 Caffe 버전 - recurrent ([Github link](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt) )
-- 해당 Caffe는 recurrent 라는 브런치. 최신화할 경우 /examples/S2VT 가 존재하지않음에 주의.
+  
+- 이용 Caffe 버전 - recurrent ([Github link](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt) )
+    - 해당 Caffe는 recurrent 라는 브런치. 최신화할 경우 /examples/S2VT 가 존재하지않음에 주의.
