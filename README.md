@@ -55,7 +55,7 @@ The play-time of each video in the dataset is usually between 10 to 25 seconds m
   
 - Github  
     - [S2VT](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
-    - [CNN FEATURES](https://github.com/hobincar/pytorch-video-feature-extractor)
+    - CNN FEATURES [[InceptionV4]](https://github.com/hobincar/pytorch-video-feature-extractor)[[vgg16]](https://github.com/YiyongHuang/S2VT)
     - [COCO Captions](https://github.com/salaniz/pycocoevalcap)
   
 - 이용 Caffe 버전 - recurrent ([Github link](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt) )
