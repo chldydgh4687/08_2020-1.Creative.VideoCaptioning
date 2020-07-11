@@ -2,7 +2,8 @@
 2020-1. SEJONG.UNIV_창의학기제 : 저화질 영상에 대한 Video Captioning 네트워크 성능 향상 연구
 
 ---
-
+# Introduction 
+---
 # Environment
 
 - linux 18.04 + docker
