@@ -3,6 +3,14 @@
 
 ---
 # Introduction 
+ Video_Captioning 기술은 영상의 특징을 추출하는 딥러닝 CNN 네트워크와 이를 기반으로 문장과 매칭시켜 학습시크는 RNN 네트워크가 결합하여 있는 기술이다. 이 기술의 성능은 특징들을 사용하기 때문에 영상의 화질과 CNN모델에 민감하다. 이 중에서 영상의 화질에 중점을 두고, 영상의 QP 조절을 통하여 저화질에서도 고화질 Video Captioning 네트워크의 성능을 가질 수 있도록 하는 연구를 통하여, 테스트 영상에 대해 저화질 영상에서 정확한 자막 생성 성능을 가질 수 있도록 하는 것을 목표로 한다. 
+ 
+ ![](https://github.com/chldydgh4687/2020-1.VideoCaptioning/blob/master/pic/qp_picture.png?raw=true)
+ 
+ | (METEOR SCORE) | ORG | QP10 | QP20 | QP30 | QP40 | QP50 | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
+| VGG16 |  |  | |  |  |  |
+| InceptionV4 |  |  | |  |  |  |
 ---
 # Environment
 
