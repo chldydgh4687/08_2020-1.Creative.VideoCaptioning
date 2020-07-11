@@ -16,7 +16,7 @@ do
 	filepathname="$entry"
 	filename=`basename $entry.avi`
 	
-	ffmpeg -i $filepathname -c:v libx264 -preset slow -crf:v 40 $move_dir/$filename
+	ffmpeg -i $filepathname -c:v libx264 -preset slow -crf:v 40 $move_dir/$filename #QP 40
 	
 	echo "$move_dir/$filename finish............."
 done
