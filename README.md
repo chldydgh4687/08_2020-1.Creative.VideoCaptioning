@@ -55,8 +55,8 @@ The play-time of each video in the dataset is usually between 10 to 25 seconds m
 - Paper  
     - Captioning
         - [S2VT ( Sequence to Sequence Video to Text )](https://vsubhashini.github.io/s2vt.html)  
-        - [Reconstruction Network for Video Captioning](https://arxiv.org/pdf/1504.00325.pdf)  
-        - [Microsoft COCO Captions : Data Collection and Evaluation Server](https://arxiv.org/pdf/1803.11438.pdf)  
+        - [Reconstruction Network for Video Captioning](https://arxiv.org/pdf/1803.11438.pdf)  
+        - [Microsoft COCO Captions : Data Collection and Evaluation Server](https://arxiv.org/pdf/1504.00325.pdf)  
     - CNN Feature
         - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
         - [VGG16 : Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf%20http://arxiv.org/abs/1409.1556.pdf)
