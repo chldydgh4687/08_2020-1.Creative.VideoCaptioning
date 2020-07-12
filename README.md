@@ -33,7 +33,7 @@
     - [ffmpeg QP down을 통한 저화질 생성](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/ffmpeg-QP-down%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%80%ED%99%94%EC%A7%88-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1)
     - [저화질 평가 및 고화질 평가 점수와 비교]()
 - 3주차 : 저화질 Video Captioning 성능 향상 연구
-
+    - 향상 방법 : high-low quality features concat training (연구중)
 - 마무리 보고서
 
 
