@@ -7,11 +7,6 @@
  
  <p align="center"><img src="https://github.com/chldydgh4687/2020-1.VideoCaptioning/blob/master/pic/org_qp50.PNG" width="50%">
  
- 
-| (METEOR SCORE) | ORG | QP10 | QP20 | QP30 | QP40 | QP50 | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
-| VGG16 | 27.7 | 27.7 | 27.5 | 27.5 | 26.1 | 21.5 |
-| InceptionV4 | 30.7 | 30.8 | 30.6 | 30.4 | 29.3 | 24.1 |
 ---
 # Environment
 
