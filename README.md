@@ -27,12 +27,11 @@
 - 2주차 : 저화질 영상 생성 알고리즘 생성과 저화질 영상에 기존의 Video Captioning 네트워크 적용
     - [고화질 Video Captioning 논문 평가점수 복원(vgg16)](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/%EA%B3%A0%ED%99%94%EC%A7%88-Video-Captioning-%EB%85%BC%EB%AC%B8-%ED%8F%89%EA%B0%80%EC%A0%90%EC%88%98-%EB%B3%B5%EC%9B%90)
     - [ffmpeg QP down을 통한 저화질 생성](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/ffmpeg-QP-down%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%80%ED%99%94%EC%A7%88-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1)
-    - [저화질 평가 및 고화질 평가 점수와 비교]()
+    - [저화질 평가 및 고화질 평가 점수와 비교](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/%EC%A0%80%ED%99%94%EC%A7%88-%ED%8F%89%EA%B0%80-%EB%B0%8F-%EA%B3%A0%ED%99%94%EC%A7%88-%ED%8F%89%EA%B0%80-%EC%A0%90%EC%88%98%EC%99%80-%EB%B9%84%EA%B5%90)
 - 3주차 : 저화질 Video Captioning 성능 향상 연구
-    - 향상 방법 : high-low quality features concat training (연구중)
+    - [성능 향상 연구 : Selected Model By Video Information](https://github.com/chldydgh4687/2020-1.VideoCaptioning/wiki/%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81%EC%97%B0%EA%B5%AC)
+  
 - 마무리 보고서
-
-
 ---
 
 # Datasets 
